@@ -10,9 +10,10 @@
 ## Website  
 
 **Netlify Link :** https://ipl-2024.netlify.app/ 
+**Vercel link :** https://ipl-2024.vercel.app/
 
-### CONTRIBUTORS : <a href="https://github.com/chetan8623-hub/icp9.0-html-github-group-project-1/graphs/contributors">
+### CONTRIBUTORS :
+ <a href="https://github.com/chetan8623-hub/icp9.0-html-github-group-project-1/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=chetan8623-hub/icp9.0-html-github-group-project-1" />
 </a>
-
 Made with [contrib.rocks](https://contrib.rocks).
